@@ -109,15 +109,11 @@ body {
   gap: 0.5em;
 }
 
-.card__footer-img {
-  height: 2em;
-  width: 2em;
-  display: grid;
-  place-items: center;
-}
-
 .card__footer img {
   max-width: 100%;
+  width: 2em;
+  border: 0.1em solid hsl(0, 0%, 100%);
+  border-radius: 50%;
   object-fit: cover;
 }
 
