@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github link](https://github.com/Amakoye/nft-preview-card-component-main.git)
-- Live Site URL: [demo link](https://qr-code-component-main-2t4johakn-amakoye.vercel.app/)
+- Live Site URL: [demo link](https://nft-preview-card-component-main-kappa-two.vercel.app/)
 
 ## My process
 
